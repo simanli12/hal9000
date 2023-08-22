@@ -1,0 +1,12 @@
+0000, My body says yes, but my heart say no.
+0001, Maybe another time.
+0002, I am not accepting anything else at this time.
+0003, We appreciate the offer, but … I’m not really into it, but thanks for asking!
+0004, I’d rather not, thanks.
+0005, That’s not going to work for me.
+0006, Sounds fun, but I’m not available.
+0007, I want to, but I’m unable to.
+0008, I just don’t have that to give right now.
+0009, I’m not able to commit to that right now.
+0010, It is not a good idea for me.
+0011, Apologies, but I can’t make it.
